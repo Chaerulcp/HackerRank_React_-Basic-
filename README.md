@@ -1,10 +1,5 @@
 # HackerRank-React-Basic
-Hacker Rank React (Basic) Solusi Uji sertifikasi
+Hacker Rank React (Basic) Solusi Uji Certificate
 
-<html>
-  <head>
-  </head>
-  <body>
-<iframe src="https://www.hackerrank.com/certificates/iframe/d43d22b5a671" title="Sertifikat React Basic"></iframe>
-  </body>
-    </html>
+Certificate :
+https://www.hackerrank.com/certificates/d43d22b5a671
